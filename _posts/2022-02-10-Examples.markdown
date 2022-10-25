@@ -47,7 +47,7 @@ This is an example page to display markdown related styles for Mr. Green Jekyll 
 {:data-align="center"}
 
 # Heading 1
-\[ test \]
+$$ test $$
 $x + y = 4$ if and only if $x = 4 - y$.
 ## Heading 2
 
