@@ -34,6 +34,7 @@ layout: util/compress
     MathJax = {
       tex: {
         inlineMath: [['$', '$']]
+        displayMath: [['$$', '$$']]
       }
     };
     </script>
